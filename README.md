@@ -1,4 +1,4 @@
-# Q&A chatbot with RAG on PDFs and websites using open source libraries 
+# Q&A chatbot with RAG on PDFs and websites using LangChain, LlamaIndex and Mistral
 Background:
 Although commercially-available large language models (LLMs) are very powerful, there are often concerns about data privacy when utilizing these models. In this proof of concept study, I utilized open access libraries (Llama Index, LangChain, HuggingFace) to construct a chatbot that can generate answers from an uploaded PDF or webpage (retrieval augmented generation [RAG]). 
 
